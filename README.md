@@ -10,7 +10,6 @@ At the end of 2019, I decided to become a developer and to join the 42 Paris sch
 - Computer hardware
 - Graphic design softwares (Gimp, Inkscape..)
 - Market finance
-- Sports
 
 🧠 Studied programming languages : 
 - C
