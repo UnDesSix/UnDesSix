@@ -5,4 +5,4 @@
 - 🤔 I’m looking for help with Iception Project...
 - ⚡ Fun fact: I used to work in Finance and Real Estate!
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mlarboul)](https://github.com/UnDesSix)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mlarboul?privacyName=true)](https://github.com/UnDesSix)
