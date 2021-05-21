@@ -5,7 +5,6 @@ I then had various experiences in banking and real estate investment firms.
 
 At the end of 2019, I decided to become a developer and to join the 42 Paris school in November 2020.
 
-
 🧐 My interests: 
 - Program architecture / Algorithms
 - Computer hardware
@@ -13,14 +12,12 @@ At the end of 2019, I decided to become a developer and to join the 42 Paris sch
 - Market finance
 - Sports
 
-
 🧠 Studied programming languages : 
 - C
 - Shell
 - HTML / CSS
 
-
-- 🌱 Basic knowledge :
+🌱 Basic knowledge :
 - ASM
 - HTML / CSS
 - Docker
