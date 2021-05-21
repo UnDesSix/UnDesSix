@@ -5,6 +5,6 @@
 - 🤔 I’m looking for help with Inception Project...
 - ⚡ Fun fact: I used to work in Finance and Real Estate!
 
-(https://badge42.herokuapp.com/api/stats/mlarboul?privacyName=true)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mlarboul?privacyName=true)](https://github.com/UnDesSix)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnDesSix)](https://github.com/UnDesSix)
