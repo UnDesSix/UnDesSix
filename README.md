@@ -14,7 +14,6 @@ At the end of 2019, I decided to become a developer and to join the 42 Paris sch
 🧠 Studied programming languages : 
 - C
 - Shell
-- HTML / CSS
 
 🌱 Basic knowledge :
 - ASM
