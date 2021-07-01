@@ -26,4 +26,4 @@ mlarboul@student.42.fr
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mlarboul?privacyEmail=true&privacyName=true)](https://github.com/UnDesSix)
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mlarboul?cursus=C%20Piscine)](https://github.com/UnDesSix)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mlarboul?cursus=C%20Piscine&privacyEmail=true&privacyName=true)](https://github.com/UnDesSix)
