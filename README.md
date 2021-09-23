@@ -13,11 +13,11 @@ At the end of 2019, I decided to become a developer and to join the 42 Paris sch
 
 🧠 Studied programming languages : 
 - C
-- CPP
+- C++
 - Shell
 
 🌱 Basic knowledge :
-- ASM
+- ASM(intel 64)
 - Docker / Docker-compose
 - HTML / CSS
 - VBA
