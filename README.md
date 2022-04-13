@@ -12,16 +12,15 @@ At the end of 2019, I decided to become a developer and to join the 42 Paris sch
 - Real Estate
 
 🧠 Studied programming languages : 
-- C
-- C++
+- C/C++
+- Python
 - Shell
+- Docker / Docker-compose
 
 🌱 Basic knowledge :
 - ASM(intel 64)
-- Docker / Docker-compose
 - HTML / CSS
 - VBA
-- Python
 
 ✉️ Contact :
 mlarboul@student.42.fr
