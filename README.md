@@ -23,6 +23,6 @@ At the end of 2019, I decided to become a developer and to join the 42 Paris sch
 - VBA
 
 ✉️ Contact :
-mlarboul@student.42.fr
+matthieu.larboullet@gmail.com
 
 ![mlarboul's 42 stats](https://badge42.vercel.app/api/v2/cl1lbph84000609me77m1bjpv/stats?cursusId=21&coalitionId=12)
