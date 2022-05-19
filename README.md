@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-After studying at the Shanghai International Studies University, I graduated with a master's degree in Banking and Financial Engineering from ESSCA Business School.
-I then had various experiences in banking and real estate investment firms.
+Passionate about computers science since I was very young, I initially followed financial studies and worked for two years in the real estate financing sector.
 
-At the end of 2019, I decided to become a developer and to join the 42 Paris school in November 2020.
+In 2020, I decided to renew with my first passion and I joined École 42.
+
+I am now looking for a first professional experience in a company to enforce my knowledge and develop new skills. 
 
 🧐 My interests: 
 - Program architecture / Algorithms
