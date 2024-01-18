@@ -1,29 +1,22 @@
 ### Hi there 👋
 
-Passionate about computers science since I was very young, I initially followed financial studies and worked for two years in the real estate financing sector.
+Now a software and data engineer, I previously dedicated three years to real estate analysis and credit. During this period, I often felt the need to develop my own analysis tools to meet business requirements more effectively. This ambition led me to pursue specialized training in 2020, enabling me to combine my financial skills with in-depth technical knowledge. My goal was clear: to be able to address specific business needs and create my own projects. Today, I focus on designing innovative data products tailored for decision-making, leveraging my experience at the intersection of analysis and technology.
 
-In 2020, I decided to renew with my first passion and I joined École 42.
+📚 Education:
+- Architect of the Digital World, École 42 (2020-2023)
+- Master's Degree in Banking and Financial Engineering, ESSCA (2012-2017)
 
-I am now looking for a first professional experience in a company to enforce my knowledge and develop new skills. 
 
-🧐 My interests: 
-- Program architecture / Algorithms
-- Computer hardware
-- Graphic design softwares (Gimp, Inkscape..)
-- Real Estate
+🧐 My areas of expertise:
+- Cloud storage solutions (AWS S3, Minio S3)
+- Web scraping and data collection (Python)
+- System architecture and infrastructure schema design
 
-🧠 Studied programming languages : 
-- C/C++
-- Python
-- Shell
-- Docker / Docker-compose
 
-🌱 Basic knowledge :
-- ASM(intel 64)
-- HTML / CSS
-- VBA
+💻 Technical Skills:
+- Programming languages: C, C++, Python, JavaScript, TypeScript, React, Shell
+- Operating systems: Ubuntu, Fedora
+- Tools: Git, Docker, Docker-Compose, PostgreSQL, Elasticsearch, AWS (EC2, DynamoDB, Lambdas)
 
-✉️ Contact :
-matthieu.larboullet@gmail.com
 
-![mlarboul's 42 stats](https://badge42.vercel.app/api/v2/cl1lbph84000609me77m1bjpv/stats?cursusId=21&coalitionId=12)
+✉️ Feel free to reach out to me for any opportunities or collaborations.
